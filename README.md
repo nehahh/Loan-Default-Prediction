@@ -31,7 +31,7 @@ Our model achieved an ROC AUC score of 0.75 on the validation set, which is a so
 ### Setting Up
 1. First, clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/loan-default-prediction.git
+    git clone https://github.com/nehahh/loan-default-prediction.git
     ```
 
 2. Next, install the necessary libraries by running:
