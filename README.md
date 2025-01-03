@@ -1,8 +1,8 @@
 # Loan-Default-Prediction
 A machine learning project to predict loan defaults using logistic regression, PCA, and feature engineering
-# Loan Default Prediction Project
 
-## Project Overview
+
+## Project Summary
 In this project, we aim to predict whether a borrower will default on a loan. By analyzing various features of the borrower and loan details, we build a machine learning model to help financial institutions make smarter lending decisions.
 
 ## Dataset Information
